@@ -1,0 +1,491 @@
+{
+  "basics": {
+    "name": "Daniel Cardona",
+    "headline": "iOS Engineer",
+    "email": "d.cardona.rojas@gmail.com",
+    "phone": "+57 3116419582",
+    "location": "Medellín, Colombia (UTC-5)",
+    "url": {
+      "label": "",
+      "href": "https://danielcardona.dev/"
+    },
+    "customFields": [],
+    "picture": {
+      "url": "https://lh3.googleusercontent.com/a/ACg8ocLxNGD5qXySc05Kcj28ltofnYWA-V02wFKuj42Wv7XT7EIPQYhzmg=s96-c",
+      "size": 64,
+      "aspectRatio": 1,
+      "borderRadius": 0,
+      "effects": {
+        "hidden": false,
+        "border": false,
+        "grayscale": false
+      }
+    }
+  },
+  "sections": {
+    "summary": {
+      "name": "About Me",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "summary",
+      "content": "<p>With over 9 years of professional experience, I specialize in building high-quality iOS and Flutter applications that are not only visually polished but also well-architected and performant. I’ve contributed and helped deliver successful native and cross-platform apps for clients across a wide range of industries, including retail, sports, tourism, real estate, and social networking.</p><p>I’m passionate about crafting user-centric experiences that combine thoughtful design with robust engineering. I enjoy bringing new ideas to the table, thinking outside the box, and pushing for creative solutions that elevate the final product.</p><p>I had the privilege of living in Canada at a young age, which helped me become fluent in English. As a result, I’m an effective communicator in both English and Spanish—an asset when collaborating with diverse, cross-functional teams. Combined with my technical skills and creativity, this makes me a well-rounded contributor to any iOS development team.</p>"
+    },
+    "awards": {
+      "name": "Awards",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "awards",
+      "items": []
+    },
+    "certifications": {
+      "name": "Certifications",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "certifications",
+      "items": []
+    },
+    "education": {
+      "name": "Education",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "education",
+      "items": [
+        {
+          "id": "oc0p9vr7pb4bl9f1jbi3qnnv",
+          "visible": true,
+          "institution": "Universidad de San Buenaventura",
+          "studyType": "Bachelor of Engineering",
+          "area": "Acoustics and Sound Engineering",
+          "score": "",
+          "date": "February 2008 - June 2014",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "experience": {
+      "name": "Work Experience",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "experience",
+      "items": [
+        {
+          "id": "icf557qxqkutof053hlft4xg",
+          "visible": true,
+          "company": "MLB",
+          "position": "iOS Engineer",
+          "location": "Code & Theory",
+          "date": "March 2023 - Present",
+          "summary": "<img src=\"https://img.logo.dev/mlb.com\" alt=\"\"><img src=\"https://cdn.jsdelivr.net/gh/DanielCardonaRojas/resume/company_logos/70x70/mlb.jpg\" alt=\"\"><p>Contributed to the development and integration of a design system, a modular components library  and a page builder library used within the iOS <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://apps.apple.com/us/app/mlb/id493619333\">MLB app</a>. I improved developer experience and contributed to several shared SPM packages enabling other iOS teams to faster and more reliably.<br><br><strong>Technologies</strong>: <br><br>Apollo GraphQL <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://github.com/pointfreeco/swift-snapshot-testing\">Snapshot testing</a>, SwiftUI, <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://github.com/pointfreeco/swift-dependencies\">SwiftDependencies</a>, <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.contentful.com/\">Contentful</a>, <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"datadog\">DataDog</a>, <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://firebase.google.com/\">Firebase</a> (RemoteConfig, Crashlytics)</p><img src=\"https://img.logo.dev/mlb.com\" alt=\"\">",
+          "url": {
+            "label": "",
+            "href": "https://www.mlb.com/"
+          }
+        },
+        {
+          "id": "tttw5c5yo154dv2ha3f6rpkl",
+          "visible": true,
+          "company": "First Republic Bank",
+          "position": "iOS Engineer",
+          "location": "YML",
+          "date": "March 2022 - March 2023",
+          "summary": "<img src=\"https://cdn.jsdelivr.net/gh/DanielCardonaRojas/resume/company_logos/70x70/frb.jpg\" alt=\"\"><p>Worked in small team developing a design system in UIKit, creating modular app pages with Swift packages, migrating legacy code from Objective-c to Swift, and refactoring the network stack to a pluggable middleware.</p>",
+          "url": {
+            "label": "",
+            "href": "https://www.firstrepublic.com/"
+          }
+        },
+        {
+          "id": "ahvf08t5aewvqo1jtgnmi67b",
+          "visible": true,
+          "company": "Bancolombia",
+          "position": "Flutter Developer",
+          "location": "EPAM Systems",
+          "date": "June 2021 - March 2022",
+          "summary": "<img src=\"https://cdn.jsdelivr.net/gh/DanielCardonaRojas/resume/company_logos/70x70/bc.jpeg\" alt=\"\"><p><br>Helped develop and maintain a design system and widget library enabling more than 4 teams build their own apps. I was also responsible for the configuration of CI/CD workflows in Azure.<br><br></p>",
+          "url": {
+            "label": "",
+            "href": "https://www.bancolombia.com"
+          }
+        },
+        {
+          "id": "hppapw9ds2fs3iwx83gfe2bp",
+          "visible": true,
+          "company": "REI",
+          "position": "iOS Engineer",
+          "location": "Endava",
+          "date": "May 2020 - June 2021",
+          "summary": "<img src=\"https://cdn.jsdelivr.net/gh/DanielCardonaRojas/resume/company_logos/70x70/rei.jpg\" alt=\"\"><p>Contributed to the development of an in house employee marketing assistant application, managing product inventory.</p>",
+          "url": {
+            "label": "",
+            "href": "https://www.rei.com/"
+          }
+        },
+        {
+          "id": "xgzqpeacvgl1czu3xgou53mx",
+          "visible": true,
+          "company": "EagleView",
+          "position": "iOS Engineer",
+          "location": "Endava",
+          "date": "May 2019 - May 2020",
+          "summary": "<img src=\"https://cdn.jsdelivr.net/gh/DanielCardonaRojas/resume/company_logos/70x70/eagleview.jpg\" alt=\"\"><p></p><p>Contributed to the core component of an Aerial image processing and 3D modeling application that allowed visualizing building and houses. I was responsible of updating the rendering engine to support the industry standard format glTF for the 3D house models.<br></p><p><strong>Technologies</strong>:</p><p>SceneKit, ARKit, <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.khronos.org/Gltf\">glTF</a></p>",
+          "url": {
+            "label": "",
+            "href": "https://www.eagleview.com/"
+          }
+        },
+        {
+          "id": "a5cphr333sg0y20tvexa2kxn",
+          "visible": true,
+          "company": "StarMeUp",
+          "position": "iOS Developer",
+          "location": "Globant",
+          "date": "May 2018 - May 2019",
+          "summary": "<img src=\"https://cdn.jsdelivr.net/gh/DanielCardonaRojas/resume/company_logos/70x70/star_me_up.jpg\" alt=\"\"><p></p><p>I was responsible for the development of new features in a team of 2 iOS developers for an enterprise focused social network application.</p>",
+          "url": {
+            "label": "",
+            "href": "https://www.starmeup.com"
+          }
+        },
+        {
+          "id": "m61mu5xek56xlpxc1vvaqsk2",
+          "visible": true,
+          "company": "Royal Caribbean",
+          "position": "iOS Developer",
+          "location": "Globant",
+          "date": "October 2017 - May 2018",
+          "summary": "<img src=\"https://cdn.jsdelivr.net/gh/DanielCardonaRojas/resume/company_logos/70x70/royal_caribbean.jpg\" alt=\"\"><p></p><p><strong>Technologies</strong>: </p><p>PromiseKit, <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://realm.github.io/\">Realm</a>, <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://airbnb.io/lottie/#/\"><strong>Lottie</strong></a></p>",
+          "url": {
+            "label": "",
+            "href": "https://www.royalcaribbean.com/"
+          }
+        },
+        {
+          "id": "dsxj3byeitwmy54ypmgvmhji",
+          "visible": true,
+          "company": "Grupo DyD",
+          "position": "Intern",
+          "location": "",
+          "date": "May 2016 - August 2017",
+          "summary": "<img src=\"https://cdn.jsdelivr.net/gh/DanielCardonaRojas/resume/company_logos/70x70/dyd.jpeg\" alt=\"\"><p></p><p>Worked as the sole developer of an Android and iOS (Swift 2) application for a queue management system. Maintained and improved internal and user facing web applications and tools.<br><br><strong>Technologies</strong>: </p><p>Alamofire, CoreData, SQLite, Python (Flask), PHP (CodeIgniter)</p><p></p>",
+          "url": {
+            "label": "",
+            "href": "https://www.grupodyd.com/"
+          }
+        }
+      ]
+    },
+    "volunteer": {
+      "name": "Volunteering",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "volunteer",
+      "items": []
+    },
+    "interests": {
+      "name": "Interests",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "interests",
+      "items": [
+        {
+          "id": "agnsyzo03li7wiw1f0yc6q3x",
+          "visible": true,
+          "name": "Productivity",
+          "keywords": []
+        },
+        {
+          "id": "to0t6pts8hdqhv68qtx7ow4u",
+          "visible": true,
+          "name": "Automation",
+          "keywords": []
+        },
+        {
+          "id": "hqj24o8e84j3lkomj4h1d6s6",
+          "visible": true,
+          "name": "Command line tools",
+          "keywords": []
+        },
+        {
+          "id": "g5o0fzkxv4aipoyk1ip1w4l1",
+          "visible": true,
+          "name": "Functional Programming",
+          "keywords": []
+        }
+      ]
+    },
+    "languages": {
+      "name": "Languages",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "languages",
+      "items": [
+        {
+          "id": "x0jxy9bvuv427idwirjlxag3",
+          "visible": true,
+          "name": "English",
+          "description": "C1",
+          "level": 4
+        },
+        {
+          "id": "kh76piyx27au7x6b8962p8rq",
+          "visible": true,
+          "name": "Spanish",
+          "description": "C2",
+          "level": 5
+        }
+      ]
+    },
+    "profiles": {
+      "name": "Profiles",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "profiles",
+      "items": [
+        {
+          "id": "wu9d187bxnjiyo6iu41xfg25",
+          "visible": true,
+          "network": "GitHub",
+          "username": "DanielCardonaRojas",
+          "icon": "github",
+          "url": {
+            "label": "",
+            "href": "https://github.com/DanielCardonaRojas"
+          }
+        },
+        {
+          "id": "fh12c50g8zv0w61vek9l3rt2",
+          "visible": true,
+          "network": "LinkedIn",
+          "username": "Daniel Cardona",
+          "icon": "linkedin",
+          "url": {
+            "label": "",
+            "href": "https://www.linkedin.com/in/decaroj"
+          }
+        },
+        {
+          "id": "xu8w6j8lajsmef784vbi78v6",
+          "visible": true,
+          "network": "dev.to",
+          "username": "danielcardonarojas",
+          "icon": "dev.to",
+          "url": {
+            "label": "",
+            "href": "https://dev.to/danielcardonarojas"
+          }
+        }
+      ]
+    },
+    "projects": {
+      "name": "Projects",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "projects",
+      "items": []
+    },
+    "publications": {
+      "name": "Publications",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "publications",
+      "items": []
+    },
+    "references": {
+      "name": "References",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "references",
+      "items": []
+    },
+    "skills": {
+      "name": "Skills",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "skills",
+      "items": [
+        {
+          "id": "lhri5o7oo9dlvuletza7wf83",
+          "visible": true,
+          "name": "iOS ",
+          "description": "",
+          "level": 5,
+          "keywords": []
+        },
+        {
+          "id": "ynvpsbwggmkui636t72g1gzy",
+          "visible": true,
+          "name": "Flutter",
+          "description": "",
+          "level": 4,
+          "keywords": []
+        },
+        {
+          "id": "vr8mezqkbr91z1h7ec33flco",
+          "visible": true,
+          "name": "Design patterns",
+          "description": "",
+          "level": 3,
+          "keywords": []
+        },
+        {
+          "id": "aa06njaj9csr1zxaj42v42b5",
+          "visible": true,
+          "name": "Clean Architecture",
+          "description": "",
+          "level": 4,
+          "keywords": []
+        },
+        {
+          "id": "bk4p32eq2853s8lsztbs3pyf",
+          "visible": true,
+          "name": "Unit testing",
+          "description": "",
+          "level": 5,
+          "keywords": []
+        },
+        {
+          "id": "cdb85pxmnffx8pmmbtn886m5",
+          "visible": true,
+          "name": "Debugging",
+          "description": "",
+          "level": 4,
+          "keywords": []
+        },
+        {
+          "id": "tepovblqlxhkyqzb9c2m3pgs",
+          "visible": true,
+          "name": "Scripting",
+          "description": "",
+          "level": 4,
+          "keywords": []
+        }
+      ]
+    },
+    "custom": {
+      "m425m3s1t60v2vzn8xk7sr1f": {
+        "name": "Technology Summary",
+        "columns": 3,
+        "separateLinks": true,
+        "visible": true,
+        "id": "m425m3s1t60v2vzn8xk7sr1f",
+        "items": [
+          {
+            "id": "o7j9q6fucn80hesm6vdtdgkt",
+            "visible": true,
+            "name": "",
+            "description": "",
+            "date": "",
+            "location": "",
+            "summary": "<ul><li><p>UIKit/SwiftUI</p></li><li><p>Combine / GCD</p></li><li><p>CoreData / Keychain</p></li><li><p>&nbsp;XCTest</p></li></ul>",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          },
+          {
+            "id": "wgwqzn72thhmjg9lbr8xtucx",
+            "visible": true,
+            "name": "",
+            "description": "",
+            "date": "",
+            "location": "",
+            "summary": "<ul><li><p>Vision</p></li><li><p>SceneKit</p></li><li><p>SwiftSyntax (macros)</p></li><li><p>Firebase</p></li></ul>",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          },
+          {
+            "id": "ukqxpuhqgzgab9x0o6xglbx1",
+            "visible": true,
+            "name": "",
+            "description": "",
+            "date": "",
+            "location": "",
+            "summary": "<ul><li><p>Github Actions</p></li><li><p>SnapshotTesting</p></li><li><p>Git</p></li><li><p>Docc</p></li></ul>",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          }
+        ]
+      }
+    }
+  },
+  "metadata": {
+    "template": "glalie",
+    "layout": [
+      [
+        [
+          "profiles",
+          "summary",
+          "custom.m425m3s1t60v2vzn8xk7sr1f",
+          "experience",
+          "education",
+          "projects",
+          "volunteer",
+          "references"
+        ],
+        [
+          "skills",
+          "interests",
+          "certifications",
+          "awards",
+          "publications",
+          "languages"
+        ]
+      ]
+    ],
+    "css": {
+      "value": "* {\n\toutline: 1px solid #000;\n\toutline-offset: 4px;\n\tcolor: pink;\n}",
+      "visible": false
+    },
+    "page": {
+      "margin": 18,
+      "format": "a4",
+      "options": {
+        "breakLine": true,
+        "pageNumbers": true
+      }
+    },
+    "theme": {
+      "background": "#ffffff",
+      "text": "#000000",
+      "primary": "#475569"
+    },
+    "typography": {
+      "font": {
+        "family": "Roboto Condensed",
+        "subset": "latin",
+        "variants": [
+          "regular"
+        ],
+        "size": 14
+      },
+      "lineHeight": 1.5,
+      "hideIcons": false,
+      "underlineLinks": true
+    },
+    "notes": ""
+  }
+}
